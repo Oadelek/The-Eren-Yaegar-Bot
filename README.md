@@ -1,6 +1,6 @@
 # Yaegar: Your Attack on Titan Companion
 
-Welcome to Yaegar, a Python-based interactive chatbot designed for fans of the anime and manga series "Attack on Titan". Yaegar is crafted to engage with users through themed responses, covering a variety of topics from greetings to character discussions, with a special emphasis on elements related to "Attack on Titan".
+Welcome to Yaegar, a Python-based interactive chatbot designed for fans of the anime and manga series Attack on Titan. Yaegar is crafted to engage with users through themed responses, covering a variety of topics from greetings to character discussions, with a special emphasis on elements related to Attack on Titan.
 
 ## Features
 
@@ -22,4 +22,4 @@ Welcome to Yaegar, a Python-based interactive chatbot designed for fans of the a
 
 Feel free to fork this repository, submit pull requests, or suggest new features or improvements. If you encounter any issues or have suggestions for new responses or topics, please open an issue.
 
-Happy discussing "Attack on Titan"!
+Happy discussing Attack on Titan!
